@@ -1,0 +1,995 @@
+{
+  "tag": [
+    "M74-FT-005",
+    "T77-FT-001",
+    "F27-FT-001"
+  ],
+  "data": [
+    [
+      {
+        "data": "01/01/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "21/01/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "31/01/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "03/02/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "03/02/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "04/02/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "15/02/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "17/02/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "16/05/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "18/05/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/05/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/05/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "31/05/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "01/06/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "06/06/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "09/06/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "21/06/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "24/06/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "15/07/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "18/07/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "28/07/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "30/07/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "05/08/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "08/08/2014",
+        "DM_PLACA": "111,839",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "24/08/2014",
+        "DM_PLACA": "112,740",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "26/08/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "27/08/2014",
+        "DM_PLACA": "112,740",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/09/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/09/2014",
+        "DM_PLACA": "112,740",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "13/11/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "14/11/2014",
+        "DM_PLACA": "112,740",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/12/2014",
+        "DM_PLACA": "112,700",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "249,130",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/12/2014",
+        "DM_PLACA": "112,740",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "170,270",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      }
+    ],
+    [
+      {
+        "data": "01/01/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "21/01/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "31/01/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "03/02/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "03/02/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "04/02/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "15/02/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "17/02/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "16/05/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "18/05/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/05/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/05/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "31/05/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "01/06/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "06/06/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "09/06/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "21/06/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "24/06/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "15/07/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "18/07/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "28/07/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "30/07/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "05/08/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "08/08/2014",
+        "DM_PLACA": "63,415",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "26/08/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "27/08/2014",
+        "DM_PLACA": "63,390",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/09/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/09/2014",
+        "DM_PLACA": "63,390",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "13/11/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "14/11/2014",
+        "DM_PLACA": "63,390",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/12/2014",
+        "DM_PLACA": "63,450",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/12/2014",
+        "DM_PLACA": "63,390",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "149,140",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      }
+    ],
+    [
+      {
+        "data": "01/01/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "21/01/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "31/01/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "03/02/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "03/02/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "04/02/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "15/02/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "17/02/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "16/05/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "18/05/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/05/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/05/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "31/05/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "01/06/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "06/06/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "09/06/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "21/06/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "24/06/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "15/07/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "18/07/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "28/07/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "30/07/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "05/08/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "08/08/2014",
+        "DM_PLACA": "89,925",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "14/08/2014",
+        "DM_PLACA": "89,970",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "26/08/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "27/08/2014",
+        "DM_PLACA": "89,970",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/09/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/09/2014",
+        "DM_PLACA": "89,970",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "13/11/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "14/11/2014",
+        "DM_PLACA": "89,970",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      },
+      {
+        "data": "22/12/2014",
+        "DM_PLACA": ",000",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Stainless Steel",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Carbon Steel",
+        "TOMADA": "M"
+      },
+      {
+        "data": "25/12/2014",
+        "DM_PLACA": "89,970",
+        "TMP_PLACA": "20,00",
+        "MAT_PLACA": "Aco Inox",
+        "DM_TRECHO": "155,990",
+        "TMP_TRECHO": "20,00",
+        "MAT_TRECHO": "Aco Carbono",
+        "TOMADA": "M"
+      }
+    ]
+  ]
+}
