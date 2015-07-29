@@ -112,16 +112,41 @@ var get_max_len = function(hist){
     return max_len;
 }
 
-//==================================================
-//carrega os dados iniciais da p57
-get_config_data('p57');
+var get_page_data=function(pg){
+	console.log(pg);
+	switch(pg){
+		case "config.html":
+			get_config_data(UEP_ID);//ID variavel GLOBAL
+			break;
+		case "prim.html":
+			get_prim_data(UEP_ID);
+			break;
+		default:
+    		console.log("Sorry, we are out of " + pg + ".");
+	}
+}
+//=================================================================================
 
-//carrega os dados dos medidores primarios da p-57
-get_prim_data('p57');
+//carrega pagina inicial
+$("#includePage").load("/public/pages/painel.html");
 
+//id do unidade de producao
+var UEP_ID = 'p57';//valor inicial
+var PAGE = "painel.html";
 
-//        get_config_data($(this).attr('id'));//carrega dados da unidade escolhida		                                           
- //       get_prim_data($(this).attr('id'));//carrega dados da unidade
+//muda dado do titulo com id h1 Muda o nome da unidade de producao
+$("#uep li").on("click",function(){                                                                                          
+        $("#h1").text($(this).text());
+	UEP_ID = $(this).children(":first").attr('id');//id do elemento clicado
+	get_page_data(PAGE);                                                                               
+    });
+
+$("#side_menu li").on("click",function(){
+	var path="/public/pages/";
+	PAGE = $(this).first().children().attr('id');//id do elemento clicado
+	$("#includePage").load(path.concat(PAGE));
+	get_page_data(PAGE);
+});
 
 
 
